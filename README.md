@@ -1,0 +1,2 @@
+# CONFIGURACIONES
+Repo para configurar
